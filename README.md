@@ -4,15 +4,6 @@ Repositori ini berisi kode dan sumber daya untuk memprediksi Lama Rawat Inap ata
 
 -----
 
-## 📜 Daftar Isi
-
-  * [Ringkasan Proyek](https://www.google.com/search?q=%23-ringkasan-proyek)
-  * [Dataset](https://www.google.com/search?q=%23-dataset)
-  * [Metodologi](https://www.google.com/search?q=%23-metodologi)
-  * [Hasil](https://www.google.com/search?q=%23-hasil)
-  * [Cara Menggunakan](https://www.google.com/search?q=%23-cara-menggunakan)
-
------
 
 ## 📌 Ringkasan Proyek
 
